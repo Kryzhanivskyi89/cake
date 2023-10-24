@@ -2,11 +2,11 @@
   "name": "cakes",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://kryzhanivskyi89.github.io/cake",
+  "homepage": "https://kryzhanivskyi89.github.io/cakes",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /cake/"
+    "build": "parcel build src/*.html --public-url /cakes/"
   },
   "keywords": [],
   "author": "",
@@ -25,4 +25,3 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
-
